@@ -1,2 +1,2 @@
-# ThrowIT is An Android game where you have to aim/throw the ball strategically to score in the requires goals with less swipes before the time runs out.
+# Source code and apk for ThrowIT An Android game.
 all scripts are included
